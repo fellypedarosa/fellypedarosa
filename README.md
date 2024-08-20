@@ -11,7 +11,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: VS code, PIP, GIT, Trello
+  💼 Ferramentas: VS code, Flask, PIP, GIT, Trello
 </p>
 
 <p align="left">
