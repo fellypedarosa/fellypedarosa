@@ -2,8 +2,8 @@
 
 <p align="left"> 
   Olá turma, meu nome é Fellype Rosa e sou <strong>Cientista de Dados</strong>.<br>
-  Estou estudando Python lll e atualmente estou no quarto semestre de ciências da computação.<br>
-  Tive uma boa esperiencia como Analista de Suporte, onde confirmei minha pixão por resolver problemas, porém, programar é o que eu amo!
+Estou estudando Python III e atualmente estou no quarto semestre de Ciências da Computação.<br>
+Tive uma boa experiência como Analista de Suporte, onde confirmei minha paixão por resolver problemas; porém, programar é o que eu amo!
 </p>
 
 <p align="left">
