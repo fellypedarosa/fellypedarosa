@@ -7,11 +7,11 @@ Tenho uma boa experiência como Analista de Suporte, onde confirmei minha paixã
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python, Java
+  👅 Linguagens: Python, Java, React
 </p>
 
 <p align="left">
-  💼 Ferramentas: VS code, Flask, PIP, GIT, Trello
+  💼 Ferramentas: Tailscale, Flask, PIP, GIT, Trello
 </p>
 
 <p align="left">
