@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá turma, meu nome é Fellype Rosa e sou <strong>Cientista de Dados</strong>.<br>
-Estou MySQL e atualmente estou no sexto semestre de Ciências da Computação.<br>
+Estou estudando MySQL e atualmente estou no sexto semestre de Ciências da Computação.<br>
 Tenho uma boa experiência como Analista de Suporte, onde confirmei minha paixão por resolver problemas; porém, também amo programar!
 </p>
 
